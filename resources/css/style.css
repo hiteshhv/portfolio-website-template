@@ -2,7 +2,6 @@ html {
     box-sizing: border-box;
 }
 body {
-    /*background-image: url(../images/bgimg.jpg);*/
     display: flex;
     align-items: center;
     justify-content: center;
